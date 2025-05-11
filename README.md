@@ -1,12 +1,13 @@
 # Learning Protocols Library
 
+<div style="display: flex; align-items: flex-start;">
+<div style="flex: 1;">
+
 ## Vision
 
 A comprehensive repository of learning protocols designed for young children, including those who have not yet learned to read. This library serves as a blueprint for educational experiences that combine AI tutoring with human teacher facilitation across all subjects and developmental domains.
 
-### The Trellis Model
-
-Our approach can be visualized as a trellis structure—a sturdy framework that provides support while allowing for natural, organic growth. Learning protocols form the structured lattice, while children's development represents the growing plants that climb and flourish with proper support. Just as a trellis doesn't dictate exactly how a plant grows but provides optimal pathways for development, our protocols create an organized framework that supports natural learning progression.
+Our approach can be visualized as a trellis structure—a sturdy framework that provides support while allowing for natural, organic growth. Learning protocols form the structured lattice, while children's development represents the growing plants that climb and flourish with proper support.
 
 ## Core Goals
 
@@ -19,6 +20,12 @@ Our approach can be visualized as a trellis structure—a sturdy framework that 
 - Build on neuroscience research for optimal learning strategies
 - Develop mastery in tool use and adaptability to new tools
 - Integrate social development and leadership as core competencies
+
+</div>
+<div style="flex: 1;">
+<img src="protocols.png" alt="Learning Protocols Trellis Model" style="max-width: 100%;">
+</div>
+</div>
 
 ## Project Overview
 
