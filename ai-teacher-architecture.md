@@ -21,26 +21,74 @@ The AI Teacher comprises the following core modules:
 
 *   **3.1. Curriculum Engine**
     *   **Purpose:** To curate, manage, and deliver developmentally appropriate learning content for Kindergarten.
-    *   **Kindergarten Content Areas:**
-        *   **Early Reading:** Phonological awareness (rhyming, alliteration, syllable segmentation), letter recognition (uppercase and lowercase), basic vocabulary acquisition, and early comprehension skills (listening to stories, answering simple questions).
-        *   **Early Writing:** Pre-writing skills (tracing, drawing shapes), letter formation (starting with uppercase), and name writing.
-        *   **Counting & Math:** Number recognition (0-10+), one-to-one correspondence, basic concepts (more/less, bigger/smaller), and pattern recognition.
-        *   **Integration with `level-0-goals.md`:** Activities will be designed to foster Creative Imagination (e.g., storytelling prompts), Scientific Exploration (e.g., observing patterns in nature through illustrated content), and Storytelling (e.g., interactive narratives).
-    *   **Content Delivery:** Micro-lessons presented as interactive games, animated stories, digital manipulatives, and engaging demonstrations.
+    *   **Key Features:**
+        *   **Structured Skill Plans:** Supports the creation and delivery of structured, sequential learning plans, similar to IXL's 'Skill Plans' (e.g., weekly plans with daily activities and assessments). These plans guide children through a logical progression of skills within ELA and Math, ensuring comprehensive coverage. Facilitators can view and potentially customize these plans.
+    *   **Level 0 (Pre-K/Kindergarten) Content Areas (Aligned with IXL Pre-K):**
+        *   **Early Reading (Language Arts):** Activities will include interactive exercises, instructional videos, and engaging games.
+            *   **Reading Foundations:**
+                *   Letter Identification (A-Z): Recognition, auditory discrimination, distinguishing confused letters.
+                *   Case Recognition: Uppercase & lowercase letter matching and identification.
+                *   Word Recognition: Identifying identical words, correctly spaced sentences, locating words in sentences.
+                *   Rhyming: Selecting rhyming words/images, identifying rhyming pairs.
+                *   Phonological Awareness: Blending syllables, onset-rime, phonemes; sequencing sounds; identifying beginning & ending sounds.
+            *   **Reading Strategies:**
+                *   Print Concepts: Understanding book parts, print orientation, distinguishing print from pictures.
+                *   Listening Comprehension: Engaging with AI-led read-alouds (with options for human-read stories) to identify main ideas and details.
+            *   **Vocabulary:**
+                *   Descriptive Words: Adjectives for colors, numbers, sizes.
+                *   Spatial Concepts: Prepositions (e.g., above/below, inside/outside).
+                *   Categorization: Sorting objects into categories, identifying outliers.
+        *   **Early Writing:** Pre-writing skills (tracing, drawing shapes), letter formation (starting with uppercase), and name writing. These will also use interactive exercises, instructional videos, and games.
+        *   **Counting & Math:** Activities will include interactive exercises, instructional videos, and engaging games.
+            *   **Numbers & Counting:**
+                *   Number Recognition (up to 20).
+                *   Counting Skills (objects, dots, shapes, ten frames up to 20).
+                *   Number Representation (using pictures, shapes, cubes).
+            *   **Comparing Quantities:**
+                *   More/Less/Same (using matching and counting strategies).
+                *   Numerical Comparisons (larger/smaller numbers).
+            *   **Patterns:**
+                *   Pattern Recognition & Extension (color, size, shape patterns).
+                *   Sequencing (predicting what comes next).
+            *   **Geometry:**
+                *   2D Shape Identification (circles, squares, triangles, rectangles).
+                *   3D Shape Recognition (spheres, cubes, cones, cylinders).
+                *   Shape Attributes (counting sides/corners, composing simple shapes).
+            *   **Measurement:**
+                *   Size Comparisons (tall/short, long/short, wide/narrow).
+                *   Weight & Capacity Comparisons.
+            *   **Early Addition & Subtraction (Sums/Minuends up to 5):**
+                *   Combining groups (using cubes, pictures).
+                *   Removing items from groups (using visual aids).
+            *   **Money (Introduction):**
+                *   Coin Identification (pennies, nickels, dimes, quarters).
+                *   Counting Pennies.
+        *   **Integration with `level-0-goals.md`:** Activities will be designed to foster Creative Imagination (e.g., storytelling prompts), Scientific Exploration (e.g., observing patterns in nature through illustrated content), and Storytelling (e.g., interactive narratives). These areas can also leverage instructional videos and engaging games.
+    *   **Content Delivery:** A rich mix of interactive exercises, short instructional videos (e.g., explaining a new math concept or demonstrating letter formation), engaging educational games, AI-led stories, and animated demonstrations, designed to maintain high engagement on an iPad platform.
 
 *   **3.2. Student Interaction Interface**
-    *   **Purpose:** To provide an intuitive, engaging, and accessible way for Kindergarten children to interact with the AI Teacher.
-    *   **Key Features (Kindergarten):**
-        *   **Voice-first:** Primary mode of interaction using clear, friendly, and child-appropriate voice output. Robust speech recognition tolerant of young children's speech patterns.
-        *   **Visually Rich and Engaging:** Colorful graphics, appealing animations, minimal on-screen text, and large, easy-to-tap interactive elements.
-        *   **Positive Feedback & Reinforcement:** Frequent verbal praise (e.g., "Great job!", "You're a super star!"), visual rewards (e.g., stars, animations), and gentle, encouraging correction for mistakes.
+    *   **Purpose:** Facilitates engaging and intuitive communication between the student and the AI on an iPad, leveraging its interactive capabilities.
+    *   **Key Features (iPad App for Pre-K):**
+        *   **Voice-first and Touch Interaction:** Primarily voice-interactive with clear, friendly, child-appropriate AI voice and robust speech recognition for young children's speech. Complemented by intuitive touch interactions: tapping, dragging, drawing/tracing directly on the iPad screen.
+        *   **Visually Rich and Engaging Interface:** Bright, colorful, and uncluttered graphics optimized for the iPad display. Features appealing characters or avatars to guide the child. Utilizes animations and visual feedback extensively to maintain engagement and illustrate concepts. Minimizes on-screen text, relying on clear icons, spoken instructions, and visual cues.
+        *   **Interactive Learning Games & Activities:** A wide variety of interactive games and activities designed for touch input, such as:
+            *   Drag-and-drop for sorting (categorization, more/less).
+            *   Tapping to select answers (letter/number ID, rhyming words).
+            *   Tracing letters, numbers, and shapes directly on screen.
+            *   Simple puzzles and matching games.
+            *   Activities that may use the iPad's accelerometer/gyroscope for gentle motion-based games (e.g., tilting to guide an object, if pedagogically sound and safe).
+            *   Conceptualizes the '30 ELA games' and '11 Math games' (from IXL) as engaging, interactive modules within the app.
+        *   **Multimedia Integration:** Seamless integration of short instructional videos (e.g., for letter sounds, number concepts, story read-alouds) that children can play on demand within the app. Videos should be concise and highly engaging.
+        *   **Positive Feedback & Reinforcement:** Frequent verbal praise (e.g., "Great job!", "You're a super star!"), visual rewards (e.g., stars, animations), and gentle, encouraging correction for mistakes. Visual rewards like collecting stars, stickers, or unlocking simple customizations for an avatar can be tied to progress, enhancing motivation on the app.
         *   **Pacing and Patience:** Ample time for children to respond, no rushing, and options for repeating instructions or activities.
+        *   **Intuitive Navigation:** Simple and clear navigation paths suitable for young children. Large, easily identifiable icons for different subjects or activity types. A clear 'home' or 'back' function. Consideration for guided access or features to prevent accidental exiting of the app.
+        *   **Offline Access (Consideration):** Design for potential offline access to a subset of activities and content, allowing learning even without constant internet connectivity. Downloaded content (videos, games) can be managed by the app.
 
 *   **3.3. Personalization Engine**
-    *   **Purpose:** To tailor the learning journey to each child's individual pace, learning style (rudimentary at Level 0), and emerging interests.
-    *   **Mechanisms (Kindergarten):**
+    *   **Purpose:** Employs adaptive learning techniques to adjust the learning experience in real-time to each child's individual pace, learning style (rudimentary at Level 0), and emerging interests, ensuring an optimal learning trajectory.
+    *   **Mechanisms (iPad App for Pre-K):**
         *   Tracks mastery of micro-milestones in reading (e.g., identifies 5 uppercase letters), writing (e.g., traces a circle), and counting (e.g., counts 5 objects accurately).
-        *   Adjusts the pace of instruction, difficulty of tasks (e.g., number of items to count), and sequence of content based on performance.
+        *   Dynamically adjusts the pace of instruction, the difficulty of questions and tasks (e.g., number of items to count, complexity of phonics), and the sequence of content in real-time based on ongoing student performance and interaction patterns.
         *   Recommends activities based on demonstrated interest (e.g., if a child engages more with animal-themed counting games) and rudimentary learning style indicators (e.g., preference for visual vs. auditory presentation).
         *   Provides scaffolding (e.g., visual hints for letter formation) and varied reinforcement strategies.
 
@@ -58,6 +106,7 @@ The AI Teacher comprises the following core modules:
         *   **Student Progress Dashboards:** Clear, visual summaries of each child's progress against Level 0 goals and micro-milestones.
         *   **Alerts for Intervention Needs:** Notifications when a child is struggling with a concept or disengaging.
         *   **Suggestions for Complementary Offline Activities:** Recommendations for hands-on activities that reinforce concepts learned with the AI (e.g., "Practice writing letter 'A' with playdough").
+        *   **Skill Plan Management:** Allows facilitators to view the current skill plan for each student, track progress against it, and potentially access tools to customize or adjust plans based on individual or group needs (e.g., aligning with a weekly theme or addressing specific classroom observations).
         *   **Supports AI-Human Collaboration Models:** Provides information to support teachers in AI-Led, Balanced, or Human-Led interaction models.
 
 ### 4. Integration with Existing Project Structure
@@ -106,9 +155,15 @@ The AI Teacher comprises the following core modules:
     *   **Computer Vision (CV):** (Optional/Future) For interpreting gestures, recognizing drawings, or interacting with physical objects.
     *   **Machine Learning for Personalization:** Reinforcement Learning (RL) for optimizing learning pathways, collaborative filtering or content-based filtering for recommendations, rule-based systems for initial scaffolding and curriculum sequencing.
 *   **Platform & Infrastructure:**
-    *   **Deployment:** Consideration for local deployment (e.g., on tablets for offline access in classrooms), cloud-based, or hybrid models.
-    *   **Scalability:** Architecture designed to handle a growing number of users and content.
-    *   **Cross-Platform Compatibility:** Aim for compatibility with common devices used in early learning settings (tablets, web browsers).
+    *   **Deployment:** Primarily focused on iPad app deployment via Apple App Store, with consideration for local deployment (e.g., on tablets for offline access in classrooms), cloud-based backend services, or hybrid models.
+    *   **Scalability:** Backend architecture designed to handle a growing number of users and content.
+    *   **Cross-Platform Compatibility:** While the primary interface is an iPad app, backend services and APIs should be designed for potential future compatibility with other platforms.
+*   **iPad App Development:**
+    *   **Development Environment:** Utilization of iOS SDK, Swift (preferred) or Objective-C, and Xcode.
+    *   **Apple App Store:** Adherence to Apple's App Store Review Guidelines, including those specific to children's apps (e.g., Kids Category requirements).
+    *   **Performance:** Optimization for a range of iPad models and current/recent iOS versions to ensure smooth performance and responsiveness.
+    *   **Touch Input:** Robust handling of diverse touch gestures common on iPad (tap, drag, swipe, pinch – if pedagogically relevant for specific activities).
+    *   **Local Storage:** Efficient management of local storage (e.g., using Core Data, Realm, or file system) for offline content (videos, game assets, educational resources) and temporary storage of progress data before syncing.
 *   **Software Architecture:**
     *   **Modular Design:** Each core module (Curriculum Engine, Personalization Engine, etc.) developed as a distinct service with clear APIs for inter-module communication.
     *   **APIs:** Well-defined APIs for content ingestion, data exchange, and integration with potential third-party tools.
@@ -136,6 +191,11 @@ The AI Teacher comprises the following core modules:
     *   Designing the system to encourage a balance between screen time and offline activities.
     *   Building in mechanisms to detect frustration or disengagement and flag for human intervention.
     *   Promoting healthy usage habits.
+*   **Screen Time Management:** The app should be designed to be used in healthy moderation. It can include features like session timers or natural break points, and provide guidance to facilitators/parents on appropriate screen time limits for Pre-K children, aligning with established child development guidelines.
+*   **In-App Purchases and Advertising:** Extreme caution. For a Pre-K educational app, ideally, there should be no in-app purchases or third-party advertising targeted at children. If any such features are ever considered for supplementary materials for parents/teachers, they must be clearly separated and protected from child access.
+*   **Parental Controls Integration:** The app should respect and work with iOS parental control settings where applicable.
+*   **Preventing Addictive Design:** Focus on engaging educational content rather than employing addictive game mechanics (e.g., excessive notifications, manipulative reward loops) that are not aligned with learning goals. The primary aim is learning, not just app engagement duration.
 *   **Safety:**
     *   Ensuring all content is age-appropriate, positive, and free from harmful material.
     *   Creating a secure digital environment, protected from external threats or inappropriate contact.
+*   **Content Appropriateness for iPad:** All visual and auditory content must be strictly vetted for age-appropriateness for Pre-K children and suitability for unsupervised moments, even within a guided context.
