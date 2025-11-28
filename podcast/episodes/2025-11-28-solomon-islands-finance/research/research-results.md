@@ -16,7 +16,13 @@ This file is for pasting research results from external tools (Gemini, Claude, C
 
 ---
 
-## Research from Other Tools
+## Research from ChatGPT
+
+<!-- Paste ChatGPT research results here -->
+
+---
+
+## Research from Perplexity
 
 <!-- Paste any other research results here -->
 
