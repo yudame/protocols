@@ -176,3 +176,31 @@ Balance precision with engagement - neither dumbed down nor unnecessarily comple
 ---
 
 <!-- Additional prompts will be added below as we progress through the workflow -->
+
+
+## Cover Art Generation
+
+**Tool Used:** OpenAI dall-e-3
+
+**Original Prompt:**
+```
+Modern podcast episode cover art for "2025 11 28 Solomon Islands Finance":
+
+Style: Clean, professional, scientific
+Layout: Bold typography with subtle data visualization elements
+Color palette: Deep blues and teals with white/silver accents
+Concept: The Solomon Islands presents one of the most dramatic financial inclusion stories unfolding in the Pacific today. In a nation where **80% of all transactions are conducted in cash** and only **25% of 
+
+Design as a square format (1400x1400px) with space for episode title overlay.
+Professional, minimalist aesthetic suitable for Apple Podcasts.
+No text in the image - pure visual design.
+```
+
+**Revised Prompt:**
+```
+Design a clean, professional, and scientific cover art for a modern podcast episode about finance in the Solomon Islands. The image should be in a square format with dimensions 1400x1400 pixels, and it should be suitable for Apple Podcasts, with a minimalist aesthetic. The dominant colors should be deep navy blue and dark blue, filling most of the canvas, while bright teal, white, and silver should be used only as accent colors. The design should be purely abstract with a subtle hint of data visualization elements linked to the financial transformation unfolding in the nation. No typography or graphic elements should be involved in the design, keeping it pure and without text, numbers, labels, annotations, icons, logos, symbols, or letterforms.
+```
+
+**Output:** cover.png
+
+**Date:** 2025-11-28
