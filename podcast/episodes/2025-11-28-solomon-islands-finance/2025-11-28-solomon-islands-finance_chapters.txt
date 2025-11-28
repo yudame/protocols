@@ -1,0 +1,78 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=60000
+title=Introduction: Exploratory Due Diligence
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=60000
+END=180000
+title=The Paradox: 80% Cash, 70% Mobile Phones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=180000
+END=265000
+title=M-SELEN's Rapid Growth: 350,000 Users
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=265000
+END=400000
+title=Geographic Reality: 1,000 Islands, 15 Banks
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=400000
+END=560000
+title=The Cost of Access: $8.67 and 70 Minutes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=560000
+END=680000
+title=Banking Infrastructure Concentrated in Honiara
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=680000
+END=820000
+title=M-SELEN's Strategy: USSD and Agent Networks
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=820000
+END=900000
+title=Competitors: EziPei and IumiCash
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=900000
+END=1080000
+title=Remittances: $431M and 11% Fees
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1080000
+END=1260000
+title=Utility Payments: Solomon Power and Water
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1260000
+END=1500000
+title=Regulatory Environment: CBSI and Licensing
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1500000
+END=1680000
+title=SOLATS and Bokolo Cash CBDC Pilot
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1680000
+END=1825000
+title=Market Entry: Barriers and Options
