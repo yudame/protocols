@@ -77,6 +77,102 @@ regulatory citations, and source links throughout.
 
 **Date:** 2025-11-28
 
+**Additional Tools Used:** ChatGPT, Perplexity
+
+---
+
+## Audio Generation Phase
+
+### NotebookLM Audio Overview Prompt
+
+**Tool Used:** NotebookLM
+
+**Format:** Deep Dive / Long
+
+**Files to Upload to NotebookLM:**
+- report.md (synthesized research report)
+- research/research-results.md (raw research from all four tools)
+
+**Prompt:**
+```
+Create an intellectually rigorous podcast that balances analytical depth with clear explanation.
+
+Opening:
+• Begin with "Yudame Research" and introduce the episode topic
+• Pronunciation: "Yudame" is pronounced "you-duh-may" (three syllables, emphasis on first)
+• Set up what makes this topic interesting or valuable to explore
+
+Core principles:
+• Spell out acronyms on first use: "Central Bank of Solomon Islands, or CBSI"
+• For short, clear terms like CBDC, prefer saying the full phrase in speech when natural: "Central Bank Digital Currency"
+• Define technical terms immediately with plain language THEN build on them - assume intelligent but not expert audience
+• Use concrete examples and stories ONLY when they exist in the source material - never fabricate or speculate
+• When stories exist, include human elements: what people said, felt, decided - not just mechanics
+• HIGHLIGHT surprising findings, spectacular failures, and unexpected successes - these are the memorable moments
+• Extract frameworks and principles from the research findings
+• Connect findings to practical implications and broader patterns
+• Maintain scientific rigor: distinguish correlation from causation, note effect sizes, acknowledge uncertainties
+
+What to emphasize:
+• Spell-first approach: "The Real-Time Gross Settlement system, called SOLATS..." not "SOLATS requires..."
+• Definition-first explanations: "M-SELEN - meaning mobile money in local Pijin where selen means money - is..."
+• Evidence-based analysis: cite specific statistics like "80% of transactions are cash" or "350,000 users in two years"
+• Human elements in stories: the journey from 20,000 users to 350,000 in under two years
+• Practical insights: what does this mean for someone considering entering the telecom market?
+• Pattern recognition: what principles emerge from M-Pesa, Fiji's M-PAiSA, and PNG's experiences?
+• Conversational check-ins: "Let me define that term..." or "To be clear, what we mean by mobile money is..."
+
+SURPRISING MOMENTS - actively look for and highlight these:
+• Counter-intuitive findings: "75% lack bank accounts, but 70% have mobile phones..."
+• Spectacular growth: "From zero to 350,000 users in just two years - nearly half the entire population"
+• Dramatic costs: "Sending money costs 11% - four times the global average"
+• Geographic extremes: "900 islands, 15 bank branches, 30% of customers arrive by canoe"
+• The Bokolo Cash CBDC experiment: Solomon Islands piloting a central bank digital currency
+• YouSave LoMobile: the world-first pension savings via mobile airtime top-up
+• Non-obvious connections: how prepaid electricity meters became the gateway to financial inclusion
+
+Signal these moments with phrases like:
+• "Here's where it gets really interesting..."
+• "And this is the shocking part..."
+• "You wouldn't expect this, but..."
+• "The numbers here are staggering..."
+• "This completely flips conventional wisdom..."
+
+What to avoid:
+• Acronyms without spelling them out first (CBSI, SOLATS, PALM, RSE, etc.)
+• Technical jargon without immediate plain-language definition
+• Academic language when simpler words work
+• Concept stacking - introducing 3+ new technical terms in one sentence
+• Fabricated examples or hypothetical stories not in the research
+• Over-simplification that loses accuracy
+• Excessive hedging that obscures clear findings
+• Dry mechanical explanations when human stories exist in the research
+• Repeatedly restating context - establish once, then focus on content
+
+Target audience: Intelligent listeners who want to deeply understand Pacific Island financial systems and the practical implications for telecom/fintech market entry. They appreciate technical depth but need terms defined to follow along.
+
+Tone: Intellectually rigorous but accessible. Think "conversational expert explaining to a bright student" - maintain depth while ensuring clarity.
+
+Closing:
+• Summarize 2-3 key takeaways: the mobile phone/bank account gap as opportunity, agent networks as the real infrastructure, remittances as the killer use case
+• Close with information about learning more: "Find full research and sources at research dot yuda dot me - that's Y-U-D-A dot M-E"
+
+When presenting stories:
+• Include human drama if it exists: how seasonal workers in Australia send money home through expensive channels
+• Build narrative tension: "Only 25% have bank accounts, but then M-SELEN launched..."
+• Make it memorable through specifics: "$8.67 average travel cost just to reach a financial access point"
+• Emphasize the spectacular: "350,000 users - nearly half the population - signed up in under two years"
+
+When presenting research:
+• Focus on what the numbers mean and why they matter
+• Use comparisons: "11% remittance cost versus the 3% UN target"
+• Translate statistics to implications: "80% cash transactions means the entire economy runs on physical currency"
+
+Balance precision with engagement - neither dumbed down nor unnecessarily complex.
+```
+
+**Date:** 2025-11-28
+
 ---
 
 <!-- Additional prompts will be added below as we progress through the workflow -->
