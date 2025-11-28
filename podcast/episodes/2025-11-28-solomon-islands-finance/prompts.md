@@ -95,80 +95,56 @@ regulatory citations, and source links throughout.
 
 **Prompt:**
 ```
-Create an intellectually rigorous podcast that balances analytical depth with clear explanation.
+Create an informative podcast that accurately describes the current state of financial infrastructure in the Solomon Islands.
+
+Context:
+This research is for someone evaluating potential market entry as a new telecom or internet provider in the Solomon Islands. They need to understand the actual payment landscape: what systems exist, who controls them, what options are available for bill payment, and what barriers a new entrant would face. The goal is practical understanding, not a "success story."
 
 Opening:
-• Begin with "Yudame Research" and introduce the episode topic
+• Begin with "Yudame Research" and introduce the topic
 • Pronunciation: "Yudame" is pronounced "you-duh-may" (three syllables, emphasis on first)
-• Set up what makes this topic interesting or valuable to explore
+• Frame this as exploratory research into how financial systems work in a Pacific Island nation
 
 Core principles:
+• Describe the status quo accurately - even if it's mundane or unremarkable
+• NEVER sensationalize findings or use hyperbolic language ("revolutionary," "stunning," "explosive," "defying gravity")
+• Present facts and let listeners draw their own conclusions
 • Spell out acronyms on first use: "Central Bank of Solomon Islands, or CBSI"
-• For short, clear terms like CBDC, prefer saying the full phrase in speech when natural: "Central Bank Digital Currency"
-• Define technical terms immediately with plain language THEN build on them - assume intelligent but not expert audience
-• Use concrete examples and stories ONLY when they exist in the source material - never fabricate or speculate
-• When stories exist, include human elements: what people said, felt, decided - not just mechanics
-• HIGHLIGHT surprising findings, spectacular failures, and unexpected successes - these are the memorable moments
-• Extract frameworks and principles from the research findings
-• Connect findings to practical implications and broader patterns
-• Maintain scientific rigor: distinguish correlation from causation, note effect sizes, acknowledge uncertainties
+• Define technical terms immediately with plain language
+• Maintain scientific rigor: acknowledge limitations, note what's uncertain or unknown
+• Be honest about what is genuinely notable vs. what is standard practice elsewhere
+
+What to cover:
+• Current payment methods: cash dominance, banking infrastructure, mobile money platforms
+• Who controls what: M-SELEN is Our Telekom's proprietary system, EziPei is Solomon Post, etc.
+• Utility payment options: Solomon Power, Solomon Water - how do people actually pay bills?
+• Remittance flows: scale, costs, channels available
+• Regulatory environment: CBSI role, licensing requirements
+• Infrastructure constraints: connectivity, electricity access, identification challenges
+• Practical implications: what would a new market entrant actually face?
 
 What to emphasize:
-• Spell-first approach: "The Real-Time Gross Settlement system, called SOLATS..." not "SOLATS requires..."
-• Definition-first explanations: "M-SELEN - meaning mobile money in local Pijin where selen means money - is..."
-• Evidence-based analysis: cite specific statistics like "80% of transactions are cash" or "350,000 users in two years"
-• Human elements in stories: the journey from 20,000 users to 350,000 in under two years
-• Practical insights: what does this mean for someone considering entering the telecom market?
-• Pattern recognition: what principles emerge from M-Pesa, Fiji's M-PAiSA, and PNG's experiences?
-• Conversational check-ins: "Let me define that term..." or "To be clear, what we mean by mobile money is..."
-
-SURPRISING MOMENTS - actively look for and highlight these:
-• Counter-intuitive findings: "75% lack bank accounts, but 70% have mobile phones..."
-• Spectacular growth: "From zero to 350,000 users in just two years - nearly half the entire population"
-• Dramatic costs: "Sending money costs 11% - four times the global average"
-• Geographic extremes: "900 islands, 15 bank branches, 30% of customers arrive by canoe"
-• The Bokolo Cash CBDC experiment: Solomon Islands piloting a central bank digital currency
-• YouSave LoMobile: the world-first pension savings via mobile airtime top-up
-• Non-obvious connections: how prepaid electricity meters became the gateway to financial inclusion
-
-Signal these moments with phrases like:
-• "Here's where it gets really interesting..."
-• "And this is the shocking part..."
-• "You wouldn't expect this, but..."
-• "The numbers here are staggering..."
-• "This completely flips conventional wisdom..."
+• Accuracy over narrative drama
+• Specific facts and statistics without editorializing about how "impressive" they are
+• Honest assessment of challenges and barriers
+• Context: how does this compare to other markets? (M-Pesa launched in Kenya 15+ years ago)
+• Practical considerations for the target use case (new telecom market entry)
 
 What to avoid:
-• Acronyms without spelling them out first (CBSI, SOLATS, PALM, RSE, etc.)
-• Technical jargon without immediate plain-language definition
-• Academic language when simpler words work
-• Concept stacking - introducing 3+ new technical terms in one sentence
-• Fabricated examples or hypothetical stories not in the research
-• Over-simplification that loses accuracy
-• Excessive hedging that obscures clear findings
-• Dry mechanical explanations when human stories exist in the research
-• Repeatedly restating context - establish once, then focus on content
+• Sensationalist language: "shocking," "staggering," "explosive growth," "leapfrogging"
+• Framing normal developments as revolutionary
+• Overstating the significance of pilot programs (Bokolo Cash is a proof-of-concept, not deployed)
+• Treating the incumbent's success (M-SELEN) as universally beneficial when it may be a competitive barrier
+• Fabricated examples or speculation
+• Narrative tension-building that distorts the facts
 
-Target audience: Intelligent listeners who want to deeply understand Pacific Island financial systems and the practical implications for telecom/fintech market entry. They appreciate technical depth but need terms defined to follow along.
+Target audience: Someone doing due diligence on market entry who needs accurate information, not a hype piece.
 
-Tone: Intellectually rigorous but accessible. Think "conversational expert explaining to a bright student" - maintain depth while ensuring clarity.
+Tone: Informative and measured. Think "analyst briefing" rather than "tech journalism." Present the facts clearly without trying to make them more exciting than they are.
 
 Closing:
-• Summarize 2-3 key takeaways: the mobile phone/bank account gap as opportunity, agent networks as the real infrastructure, remittances as the killer use case
-• Close with information about learning more: "Find full research and sources at research dot yuda dot me - that's Y-U-D-A dot M-E"
-
-When presenting stories:
-• Include human drama if it exists: how seasonal workers in Australia send money home through expensive channels
-• Build narrative tension: "Only 25% have bank accounts, but then M-SELEN launched..."
-• Make it memorable through specifics: "$8.67 average travel cost just to reach a financial access point"
-• Emphasize the spectacular: "350,000 users - nearly half the population - signed up in under two years"
-
-When presenting research:
-• Focus on what the numbers mean and why they matter
-• Use comparisons: "11% remittance cost versus the 3% UN target"
-• Translate statistics to implications: "80% cash transactions means the entire economy runs on physical currency"
-
-Balance precision with engagement - neither dumbed down nor unnecessarily complex.
+• Summarize the practical realities: what payment options exist, who controls them, what a new entrant would need to consider
+• Close with: "Find full research and sources at research dot yuda dot me - that's Y-U-D-A dot M-E"
 ```
 
 **Date:** 2025-11-28
